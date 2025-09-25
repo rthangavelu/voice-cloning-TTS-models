@@ -136,6 +136,6 @@ If **voice cloning accuracy** is required → `your_tts` is the better choice.
 ---
 
 ##  Future Work
-- Add **XTTS-v2** and **Elevel-labs** to evaluation.  
+- Add **XTTS-v2** and **Eleven-labs** to evaluation.  
 - Explore **scaling to full audiobook generation** in multiple languages.  
 - Investigate **GPU optimization** for faster inference.  
