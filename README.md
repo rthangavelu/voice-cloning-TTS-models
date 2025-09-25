@@ -110,7 +110,7 @@ If **voice cloning accuracy** is required → `your_tts` is the better choice.
 
 ## Output Structure
 
-1. **Audio Files** – Stored under `/outputs/audio/{model}/`  
+1. **Audio Files** – Stored under `data/sample_voice<number>/results/<file_name>_<model_name>_<page_name>.wav 
 2. **Similarity Scores** – CSV file: `multi_model_voice_similarity.csv`  
 3. **Performance Metrics** – CSV file: `performance_metrics.csv`  
 4. **Charts** – PNG charts comparing models  
