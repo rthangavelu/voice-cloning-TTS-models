@@ -1,0 +1,2 @@
+Model,Time (s),Output File,Quality (manual),Voice Cloning (Temp)
+tts_models/en/ljspeech/vits,1.28,out_en_vits.wav,TODO,N/A
